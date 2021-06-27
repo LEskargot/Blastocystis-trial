@@ -33,7 +33,6 @@ laborum
 Lausanne
 LEskargot
 Lorem
-Loterie
 Ludovico
 magna
 mollit
@@ -48,7 +47,6 @@ proident
 qui
 quis
 reprehenderit
-romande
 sed
 sint
 sunt
