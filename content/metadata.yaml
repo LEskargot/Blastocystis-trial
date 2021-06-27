@@ -1,26 +1,19 @@
 ---
-title: "Manuscript Title"
+title: "Is It Useful To Treat Blastocystis? A double-blind placebo-controlled randomized trial."
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: LEskargot
+    name: Ludovico Gennaro Cobuccio
+    initials: LGC
+    orcid: 0000-0003-3556-3674
+    twitter: DrLuCob
+    email: ludovico@cobuccio.me
     affiliations:
-      - Department of Something, University of Whatever
+      - Travel Clinic, Centre for Primary Care and Public Health, Lausanne, Switzerland
+      - University of Lausanne, Faculty of Biology and Medicine, Switzerland
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Loterie romande
