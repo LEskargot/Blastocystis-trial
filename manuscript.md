@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://LEskargot.github.io/Blastocystis-trial/" />
   <meta name="citation_pdf_url" content="https://LEskargot.github.io/Blastocystis-trial/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://LEskargot.github.io/Blastocystis-trial/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://LEskargot.github.io/Blastocystis-trial/v/ec84e54606a2db8ae8c14c84f6f6894426b2d87e/" />
-  <meta name="manubot_html_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/ec84e54606a2db8ae8c14c84f6f6894426b2d87e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/ec84e54606a2db8ae8c14c84f6f6894426b2d87e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://LEskargot.github.io/Blastocystis-trial/v/6bab4564cda614eca742de1f8f311e78a9b2709c/" />
+  <meta name="manubot_html_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/6bab4564cda614eca742de1f8f311e78a9b2709c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/6bab4564cda614eca742de1f8f311e78a9b2709c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://LEskargot.github.io/Blastocystis-trial/v/ec84e54606a2db8ae8c14c84f6f6894426b2d87e/))
+([permalink](https://LEskargot.github.io/Blastocystis-trial/v/6bab4564cda614eca742de1f8f311e78a9b2709c/))
 was automatically generated
-from [LEskargot/Blastocystis-trial@ec84e54](https://github.com/LEskargot/Blastocystis-trial/tree/ec84e54606a2db8ae8c14c84f6f6894426b2d87e)
+from [LEskargot/Blastocystis-trial@6bab456](https://github.com/LEskargot/Blastocystis-trial/tree/6bab4564cda614eca742de1f8f311e78a9b2709c)
 on June 27, 2021.
 </em></small>
 
