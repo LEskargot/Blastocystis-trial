@@ -1,6 +1,4 @@
 name: manubot
-env: 
-  - BUILD_DOCX=true
 channels:
   - conda-forge
 dependencies:
