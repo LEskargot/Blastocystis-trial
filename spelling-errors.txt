@@ -4,7 +4,9 @@ aliquip
 amet
 anim
 aute
+Centre
 cillum
+Cobuccio
 commodo
 consectetur
 consequat
@@ -12,6 +14,7 @@ culpa
 cupidatat
 deserunt
 dolore
+DrLuCob
 Duis
 eiusmod
 elit
@@ -20,15 +23,18 @@ esse
 Excepteur
 exercitation
 fugiat
+Gennaro
 incididunt
 ipsum
 irure
-janeroe
-johndoe
 labore
 laboris
 laborum
+Lausanne
+LEskargot
 Lorem
+Loterie
+Ludovico
 magna
 mollit
 nisi
@@ -42,6 +48,7 @@ proident
 qui
 quis
 reprehenderit
+romande
 sed
 sint
 sunt
@@ -50,5 +57,3 @@ ullamco
 velit
 veniam
 voluptate
-XXXX
-XXXXXXXX

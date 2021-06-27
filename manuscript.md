@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Is It Useful To Treat Blastocystis? A double-blind placebo-controlled randomized trial.
 keywords:
 - markdown
 - publishing
@@ -7,18 +7,17 @@ keywords:
 lang: en-US
 date-meta: '2021-06-27'
 author-meta:
-- John Doe
-- Jane Roe
+- Ludovico Gennaro Cobuccio
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Is It Useful To Treat Blastocystis? A double-blind placebo-controlled randomized trial." />
+  <meta name="citation_title" content="Is It Useful To Treat Blastocystis? A double-blind placebo-controlled randomized trial." />
+  <meta property="og:title" content="Is It Useful To Treat Blastocystis? A double-blind placebo-controlled randomized trial." />
+  <meta property="twitter:title" content="Is It Useful To Treat Blastocystis? A double-blind placebo-controlled randomized trial." />
   <meta name="dc.date" content="2021-06-27" />
   <meta name="citation_publication_date" content="2021-06-27" />
   <meta name="dc.language" content="en-US" />
@@ -27,23 +26,20 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Ludovico Gennaro Cobuccio" />
+  <meta name="citation_author_institution" content="Travel Clinic, Centre for Primary Care and Public Health, Lausanne, Switzerland" />
+  <meta name="citation_author_institution" content="University of Lausanne, Faculty of Biology and Medicine, Switzerland" />
+  <meta name="citation_author_orcid" content="0000-0003-3556-3674" />
+  <meta name="twitter:creator" content="@DrLuCob" />
   <link rel="canonical" href="https://LEskargot.github.io/Blastocystis-trial/" />
   <meta property="og:url" content="https://LEskargot.github.io/Blastocystis-trial/" />
   <meta property="twitter:url" content="https://LEskargot.github.io/Blastocystis-trial/" />
   <meta name="citation_fulltext_html_url" content="https://LEskargot.github.io/Blastocystis-trial/" />
   <meta name="citation_pdf_url" content="https://LEskargot.github.io/Blastocystis-trial/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://LEskargot.github.io/Blastocystis-trial/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://LEskargot.github.io/Blastocystis-trial/v/defe787b0ad8a21a745cc82c3117770896caaf8b/" />
-  <meta name="manubot_html_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/defe787b0ad8a21a745cc82c3117770896caaf8b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/defe787b0ad8a21a745cc82c3117770896caaf8b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://LEskargot.github.io/Blastocystis-trial/v/df276622423afacfbe900eb88c60f689d5be288d/" />
+  <meta name="manubot_html_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/df276622423afacfbe900eb88c60f689d5be288d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/df276622423afacfbe900eb88c60f689d5be288d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://LEskargot.github.io/Blastocystis-trial/v/defe787b0ad8a21a745cc82c3117770896caaf8b/))
+([permalink](https://LEskargot.github.io/Blastocystis-trial/v/df276622423afacfbe900eb88c60f689d5be288d/))
 was automatically generated
-from [LEskargot/Blastocystis-trial@defe787](https://github.com/LEskargot/Blastocystis-trial/tree/defe787b0ad8a21a745cc82c3117770896caaf8b)
+from [LEskargot/Blastocystis-trial@df27662](https://github.com/LEskargot/Blastocystis-trial/tree/df276622423afacfbe900eb88c60f689d5be288d)
 on June 27, 2021.
 </em></small>
 
@@ -75,25 +71,16 @@ on June 27, 2021.
 
 
 
-+ **John Doe**<br>
++ **Ludovico Gennaro Cobuccio**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0003-3556-3674](https://orcid.org/0000-0003-3556-3674)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [LEskargot](https://github.com/LEskargot)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [DrLuCob](https://twitter.com/DrLuCob)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Travel Clinic, Centre for Primary Care and Public Health, Lausanne, Switzerland; University of Lausanne, Faculty of Biology and Medicine, Switzerland
+     · Funded by Loterie romande
   </small>
 
 
