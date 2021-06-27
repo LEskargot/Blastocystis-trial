@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://LEskargot.github.io/Blastocystis-trial/" />
   <meta name="citation_pdf_url" content="https://LEskargot.github.io/Blastocystis-trial/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://LEskargot.github.io/Blastocystis-trial/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://LEskargot.github.io/Blastocystis-trial/v/497d6f40f13868adc8ea949c1acebeae7ac59a0a/" />
-  <meta name="manubot_html_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/497d6f40f13868adc8ea949c1acebeae7ac59a0a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/497d6f40f13868adc8ea949c1acebeae7ac59a0a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://LEskargot.github.io/Blastocystis-trial/v/240f0fa09309f3bf2c0671f9116b499508dc0c3f/" />
+  <meta name="manubot_html_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/240f0fa09309f3bf2c0671f9116b499508dc0c3f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://LEskargot.github.io/Blastocystis-trial/v/240f0fa09309f3bf2c0671f9116b499508dc0c3f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://LEskargot.github.io/Blastocystis-trial/v/497d6f40f13868adc8ea949c1acebeae7ac59a0a/))
+([permalink](https://LEskargot.github.io/Blastocystis-trial/v/240f0fa09309f3bf2c0671f9116b499508dc0c3f/))
 was automatically generated
-from [LEskargot/Blastocystis-trial@497d6f4](https://github.com/LEskargot/Blastocystis-trial/tree/497d6f40f13868adc8ea949c1acebeae7ac59a0a)
+from [LEskargot/Blastocystis-trial@240f0fa](https://github.com/LEskargot/Blastocystis-trial/tree/240f0fa09309f3bf2c0671f9116b499508dc0c3f)
 on June 27, 2021.
 </em></small>
 
@@ -80,7 +80,6 @@ on June 27, 2021.
     [DrLuCob](https://twitter.com/DrLuCob)<br>
   <small>
      Travel Clinic, Centre for Primary Care and Public Health, Lausanne, Switzerland; University of Lausanne, Faculty of Biology and Medicine, Switzerland
-     · Funded by none
   </small>
 
 
