@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/LEskargot/Blastocystis-trial/tree/gh-pages) branch hosts the contents of this directory at <https://LEskargot.github.io/Blastocystis-trial/>.
-The permalink for this webpage version is <https://LEskargot.github.io/Blastocystis-trial/v/497d6f40f13868adc8ea949c1acebeae7ac59a0a/>.
+The permalink for this webpage version is <https://LEskargot.github.io/Blastocystis-trial/v/240f0fa09309f3bf2c0671f9116b499508dc0c3f/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://LEskargot.github.io/Blastocystis-trial/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`497d6f40f13868adc8ea949c1acebeae7ac59a0a`](https://github.com/LEskargot/Blastocystis-trial/commit/497d6f40f13868adc8ea949c1acebeae7ac59a0a).
+[`240f0fa09309f3bf2c0671f9116b499508dc0c3f`](https://github.com/LEskargot/Blastocystis-trial/commit/240f0fa09309f3bf2c0671f9116b499508dc0c3f).
